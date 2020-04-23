@@ -1,10 +1,3 @@
-# Panel Standard
-Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
-
-- [Demo](https://demo.ssrpanel.com)
-- [Telegram](https://t.me/ssrpanel)
-- [Issues](https://github.com/ssrpanel/SSRPanel/issues)
-- [WIKI](https://github.com/ssrpanel/SSRPanel/wiki)
 
 
 **WARNING : This version only fixes BUG and no new features are added.**
@@ -27,25 +20,3 @@ Star Number of Projects as of May 13, 2019 (Project was set to private)
 - PHP Extensions: ZIP、XML、CURL、GD2、FileInfo、OpenSSL、Mbstring、PDO、Tokenizer、Ctype、JSON、BCMath
 - Laravel 5.6
 
-## Thanks
-- [@shadowsocks](https://github.com/shadowsocks)
-- [@V2Ray](https://www.v2ray.com)
-- [@breakwa11](https://github.com/breakwa11)
-- [@glzjin](https://github.com/esdeathlove)
-- [@orvice](https://github.com/orvice)
-- [@Akkariiin](https://github.com/shadowsocksrr)
-- [@aiyahacke](https://github.com/aiyahacke)
-- [@ColetteContreras](https://github.com/ColetteContreras)
-- [@rc452860](https://github.com/rc452860)
-- [@pch18](https://github.com/pch18)
-- [@tonychanczm](https://github.com/tonychanczm)
-- [@91yun](https://github.com/91yun)
-- [@ToyoDAdoubi](https://github.com/ToyoDAdoubi)
-- [@ipcheck](https://ipcheck.need.sh)
-- [@cz88](http://www.cz88.net/index.shtml)
-- [@ip.sb](https://www.ip.sb)
-- [@ipip](https://www.ipip.net)
-
-## License
-
-SSRPanel Standard is open-sourced software licensed under the MIT license.
